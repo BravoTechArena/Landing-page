@@ -5,7 +5,7 @@
 }
 
 header{
-    background-image: url("/images/desktop/image-header.jpg");
+    background-image: url("image-header.jpg");
     background-size: cover;
     padding-bottom: 10rem;
     text-align: center;
@@ -99,7 +99,7 @@ a{
 }
 
 .egg{
-    background: url("/images/desktop/image-transform.jpg");
+    background: url("image-transform.jpg");
     background-size: cover;
     background-position: center;
     grid-column: 2/3;
@@ -107,7 +107,7 @@ a{
 }
 
 .cup{
-    background: url("/images/desktop/image-stand-out.jpg");
+    background: url("image-stand-out.jpg");
     background-size: cover;
     background-position: center;
     grid-column: 1/2;
@@ -129,7 +129,7 @@ a{
 }
 
 .grape{
-    background: url("/images/desktop/image-graphic-design.jpg");
+    background: url("image-graphic-design.jpg");
     grid-column: 1/2;
     grid-row: 3/4;
     background-size: cover;
@@ -143,7 +143,7 @@ a{
 }
 
 .lemon{
-    background: url("/images/desktop/image-photography.jpg");
+    background: url("image-photography.jpg");
     grid-column: 2/3;
     grid-row: 3/4;
     background-size: cover;
